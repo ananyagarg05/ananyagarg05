@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ananya
 - 👀 I’m interested in using new tech related platforms.
 - 🌱 I’m currently learning web development & DSA in C++
+- 💗 Technology is best when it brings people together. #TechforGood
 
 <!---
 ananyagarg05/ananyagarg05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

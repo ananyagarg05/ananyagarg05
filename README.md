@@ -1,16 +1,20 @@
-
-<!--github stats -->
-
-
-#  About Me:
 <h1 align="center">Heyy!, I'm Ananya Garg</h1><br>
-<!-- Adding GIF -->
-<p align="center">
-  <img src="ezgif-6-76e0a13240.gif" alt="GIF">
-</p>
+
+<table>
+  <tr>
+    <td>
+      - 🌱 I’m currently learning DSA, Web Development<br><br>
+      - 👀 I’m interested in using new tech-related platforms.<br><br>
+      - 🌱 I’m currently learning web development & DSA in C++<br><br>
+      - 💗 Technology is best when it brings people together. #TechforGood
+    </td>
+    <td>
+      <img src="ezgif-6-76e0a13240.gif" alt="GIF" style="max-width: 100%;">
+    </td>
+  </tr>
+</table>
 
 
-- 🌱 I’m currently learning DSA,Web Development<br><br>- 👀 I’m interested in using new tech related platforms.<br>  <br>- 🌱 I’m currently learning web development & DSA in C++<br> <br>- 💗 Technology is best when it brings people together. #TechforGood
 
 
 ## 🌐 Socials:

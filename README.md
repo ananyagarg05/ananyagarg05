@@ -6,7 +6,6 @@
     <td>
       - 🌱 I’m currently learning DSA, Web Development<br><br>
       - 👀 I’m interested in using new tech-related platforms.<br><br>
-      - 🌱 I’m currently learning web development & DSA in C++<br><br>
       - 💗 Technology is best when it brings people together. #TechforGood
     </td>
     <td>

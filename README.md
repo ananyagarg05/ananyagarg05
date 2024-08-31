@@ -4,8 +4,9 @@
 <table>
   <tr>
     <td>
-      - 🔭 I’m currently learning DSA, Web Development<br><br>
+      - 🔭 I’m currently learning DSA & Web Development<br><br>
       - 📫 How to reach me: <a href="mailto:ananyagargtech@gmail.com">ananyagargtech@gmail.com</a><br><br>
+      - ⚡ Fun fact : **Coding is a superpower; use it to build a world you want to see.**
       <br><br>
     </td>
     <td>

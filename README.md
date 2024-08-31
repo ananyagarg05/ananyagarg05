@@ -1,4 +1,4 @@
-<h1 align="center">Heyy!, I'm Ananya Garg🌟</h1><br>
+<h1 align="center">Heyy!🌺,I'm Ananya Garg🌟</h1><br>
 <h3 align="center">A passionate MERN stack Developer and Programmer.</h3>
 <table>
   <tr>

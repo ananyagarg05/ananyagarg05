@@ -5,7 +5,7 @@
     <td>
       - 🔭 I’m currently learning DSA & Web Development<br><br>
       - 📫 How to reach me: <a href="mailto:ananyagargtech@gmail.com">ananyagargtech@gmail.com</a><br><br>
-      - ⚡ <strong>Fun Fact: Coding crafts the magic, design adds the charm, frontend shows it off, and kindness powers it all!</strong>
+      - ⚡ <strong>Fun Fact: I love to dance because where else can you accidentally invent a new dance move and call it a "freestyle"?!</strong>
       <br><br>
     </td>
     <td>

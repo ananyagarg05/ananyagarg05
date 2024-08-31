@@ -4,8 +4,9 @@
 <table>
   <tr>
     <td>
-      -  I’m currently learning DSA, Web Development<br><br>
-       - 📫 How to reach me **ananyagargtech@gmail.com** <br><br>
+      - 🔭 I’m currently learning DSA, Web Development<br><br>
+      - 📫 How to reach me ananyagargtech@gmail.com
+      <br><br>
     </td>
     <td>
       <img src="ezgif-6-76e0a13240.gif" alt="GIF" style="max-width: 100%;">

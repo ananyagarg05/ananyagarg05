@@ -6,7 +6,7 @@
     <td>
       - 🔭 I’m currently learning DSA & Web Development<br><br>
       - 📫 How to reach me: <a href="mailto:ananyagargtech@gmail.com">ananyagargtech@gmail.com</a><br><br>
-      - ⚡ Fun Fact: Coding crafts the magic, design adds the charm, frontend shows it off, and kindness powers it all!
+      - ⚡ **Fun Fact: Coding crafts the magic, design adds the charm, frontend shows it off, and kindness powers it all!**
       <br><br>
     </td>
     <td>

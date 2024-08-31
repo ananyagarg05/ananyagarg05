@@ -1,11 +1,11 @@
 
 <h1 align="center">Heyy!, I'm Ananya Garg</h1><br>
-
+<h3 align="center">A passionate MERN stack Developer and Programmer.</h3>
 <table>
   <tr>
     <td>
       -  I’m currently learning DSA, Web Development<br><br>
-       - <br><br>
+       - 📫 How to reach me **ananyagargtech@gmail.com** <br><br>
     </td>
     <td>
       <img src="ezgif-6-76e0a13240.gif" alt="GIF" style="max-width: 100%;">

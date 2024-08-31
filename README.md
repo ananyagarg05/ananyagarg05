@@ -4,8 +4,8 @@
 <table>
   <tr>
     <td>
-      - 🌱 I’m currently learning DSA, Web Development<br><br>
-      - 👀 I’m interested in using new tech-related platforms.<br><br>
+      -  I’m currently learning DSA, Web Development<br><br>
+       - <br><br>
     </td>
     <td>
       <img src="ezgif-6-76e0a13240.gif" alt="GIF" style="max-width: 100%;">

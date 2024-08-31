@@ -5,7 +5,7 @@
   <tr>
     <td>
       - 🔭 I’m currently learning DSA, Web Development<br><br>
-      - 📫 How to reach me ananyagargtech@gmail.com
+      - 📫 How to reach me  **ananyagargtech@gmail.com**
       <br><br>
     </td>
     <td>

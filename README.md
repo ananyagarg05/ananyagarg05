@@ -5,7 +5,7 @@
     <td>
       - 🔭 I’m currently learning DSA & Web Development<br><br>
       - 📫 How to reach me: <a href="mailto:ananyagargtech@gmail.com">ananyagargtech@gmail.com</a><br><br>
-      - ⚡ <strong>Fun Fact: I love to dance because where else can you accidentally invent a new dance move and call it a "freestyle"?!</strong>
+      - ⚡ <strong>Fun Fact: I love to dance💗,because where else can you accidentally invent a new dance move and call it a "freestyle"?!</strong>
       <br><br>
     </td>
     <td>
